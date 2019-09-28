@@ -1,5 +1,6 @@
 はじめてのgit
 基本的なワークフローを学びます。
-.git add
+.月日はハクダイ
+　価格にしてadreadd
 .git commit
 .git rm
